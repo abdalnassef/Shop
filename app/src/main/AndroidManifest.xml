@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ema.myshop">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!-- <uses-permission android:name="android.permission.READ_PHONE_STATE"/> -->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Seller" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".Forgot_pass" />
+        <activity android:name=".wait_for_activate" />
+        <activity android:name=".login" />
+        <activity android:name=".Profile" />
+        <activity android:name=".product" />
+        <activity android:name=".otherprofiles" />
+        <activity android:name=".searching" />
+        <activity android:name=".unlogin" />
+        <activity android:name=".Home">
+
+        </activity>
+        <activity android:name=".Upload_Product">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

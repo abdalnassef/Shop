@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.ema.myshop.searching">
+    <TextView
+        android:id="@+id/typelapel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Now search by shopname only"/>
+    <Spinner
+        android:id="@+id/type"
+        android:layout_toRightOf="@+id/typelapel"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Spinner>
+    <AutoCompleteTextView
+        android:id="@+id/auto"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:completionThreshold="1"
+        android:textSize="25dp"
+       />
+
+    <Button
+        android:id="@+id/searchhome"
+        android:layout_toLeftOf="@+id/homesignin"
+        android:background="@drawable/cir"
+        android:textColor="@android:color/white"
+        android:text="Home"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/searchbutton"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/auto"
+        android:background="@drawable/cir"
+        android:textColor="@android:color/white"
+        android:text="Search"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true">
+        <LinearLayout
+            android:visibility="visible"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:visibility="visible"
+                android:id="@+id/unloginlay"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:id="@+id/untoin"
+                    android:layout_width="60dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="90dp"
+                    >
+                    <Button
+                        android:layout_width="50dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:background="@drawable/login"/>
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="Login"
+                        android:gravity="center"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/untoreg"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="60dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                    <Button
+                        android:layout_width="40dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:background="@drawable/signup"
+                        android:layout_gravity="center"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="Sign Up"
+                        android:background="#39ffffff"/>
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
