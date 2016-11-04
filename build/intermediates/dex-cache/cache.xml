@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_1ba54a851c86a1b3038836752efd86cc3ccf977c.jar" />
+    </item>
+    <item
+        jar="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_8e9b13c1ee9bc465b3c3ff33c6f0c234abfdedb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_a4f7b104cd64ae85ee1910dd86d4a4b2b8b28adb.jar" />
+    </item>
+    <item
+        jar="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_da9d7e2be57cdf36153df2e09e6147fff8b7505e.jar" />
+    </item>
+    <item
+        jar="C:\Users\EMA\AndroidStudioProjects\MyShop\image\libs\android-support-v7-appcompat-b40531d936fd0091b7138eefc8eb6751.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3451b86e904162541286f12f9a9a1381634ec31a">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-b40531d936fd0091b7138eefc8eb6751_b76ce29abe6bacffefa6639d191282380008e242.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProgram\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_a04969e6d899b554282ff2c1c76ac3b82de98fab.jar" />
+    </item>
+    <item
+        jar="C:\Users\EMA\AndroidStudioProjects\MyShop\image\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\android-support-v4_ab8668c2289d6079f817411832f8061f3a2a702d.jar" />
+    </item>
+    <item
+        jar="C:\Users\EMA\AndroidStudioProjects\MyShop\image\libs\android-support-v4-4a7e55d702cf585bca744c1243f436e2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="16a1acb907de48dd78b9163286c2435a51de00ec">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\android-support-v4-4a7e55d702cf585bca744c1243f436e2_0d5845287e7865dc2ca7ff8009341706dbec68a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\EMA\AndroidStudioProjects\MyShop\image\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\android-async-http-1.4.4_ed709b141ee12992ae81fc1feb7b8d7dec89bc6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\EMA\AndroidStudioProjects\MyShop\image\libs\android-async-http-1.4.4-3858bd3d52422ef03a699254fb101dc2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="20e7f59a470640d039d76ad17bc8065cf65836a1">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\android-async-http-1.4.4-3858bd3d52422ef03a699254fb101dc2_256e78bdcee273e7ffdbd909eb9ac2be3cc7f9cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\EMA\AndroidStudioProjects\MyShop\image\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_c1768719823a15d583028044d18e84e370940419.jar" />
+    </item>
+
+</items>
